@@ -2,8 +2,8 @@ This Django application is Tasks Board. User can add new task to the board by fi
 
 Prerequisites:
 
-Python 3.9.7,
-Django 4.1.2,
+- Python 3.9.7,
+= Django 4.1.2,
 
 How to run: 1.python manage.py makemigrations 2.python manage.py migrate 3.python manage.py runserver
 
